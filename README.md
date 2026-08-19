@@ -29,7 +29,7 @@
 - Cybersecurity
 - Computer Networks
 - Embedded Systems
-- 
+  
 ## 📚 Currently Learning
 
 - Cybersecurity
