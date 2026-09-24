@@ -1,49 +1,71 @@
 # Hi, I'm Naeem Khan 👋
 
-🎓 BS Computer Systems Engineering Student | UET Peshawar
-📅 Expected Graduation: 2028
+🎓 **BS Computer Systems Engineering Student | UET Peshawar**
+📅 **Expected Graduation: 2028**
 
 ## 👨‍💻 About Me
 
-- 🔐 Interested in Cybersecurity
-- 🌐 Learning Computer Networks
-- 💻 Exploring Embedded Systems
-- 🐧 Learning Linux
-- 🚀 Building projects and improving my skills
+I'm a Computer Systems Engineering student passionate about **Computer Networking, Python, Cybersecurity, and AI Automation**.
+
+I enjoy building practical projects, understanding how systems communicate, and exploring how automation and AI can solve real-world problems.
 
 ## 🛠️ Skills
 
-### Languages
-- C
-- C++
-- Python
-- Java
+### 💻 Programming
 
-### Technologies
-- Git
-- GitHub
-- Linux
-- Cisco Packet Tracer
+* Python
+* C
+* C++
 
-### Areas of Interest
-- Cybersecurity
-- Computer Networks
-- Embedded Systems
-  
+### 🌐 Networking & Systems
+
+* Computer Networking
+* CCNA Fundamentals
+* Cisco Packet Tracer
+* Linux
+
+### 🔐 Areas of Interest
+
+* Computer Networks
+* Cybersecurity
+* Network Automation
+* AI Automation
+* Linux & Systems
+* Embedded Systems
+
 ## 📚 Currently Learning
 
-- Cybersecurity
-- Computer Networks
-- Operating Systems
-- Embedded Systems
+* 🐍 Python & Automation
+* 🌐 CCNA & Computer Networking
+* 🔐 Cybersecurity Fundamentals
+* 🤖 AI Automation
+* 🐧 Linux
+* ⚙️ Operating Systems
+
+## 🚀 Projects
+
+I'm building practical projects focused on:
+
+* **Python & Automation**
+* **Computer Networking**
+* **Cybersecurity**
+* **AI-powered Business Automation**
+
+Check out my repositories to see my work and progress.
 
 ## 🎯 Goals
 
-- Build real-world networking projects
-- Learn ethical hacking fundamentals
-- Contribute to open-source projects
-- Develop embedded systems applications
+* Build real-world networking and cybersecurity projects
+* Develop strong Python and automation skills
+* Strengthen practical networking skills through CCNA
+* Build AI-powered business automation solutions
+* Contribute to open-source projects
+* Continuously improve my problem-solving and engineering skills
+
+## 📈 Current Focus
+
+**Python → Networking → Cybersecurity → Automation → AI**
 
 ## 📫 Contact
 
-- 📧 24pwcse2379@uetpeshawar.edu.pk
+📧 **[24pwcse2379@uetpeshawar.edu.pk](mailto:24pwcse2379@uetpeshawar.edu.pk)**
